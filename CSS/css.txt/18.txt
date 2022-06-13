@@ -1,0 +1,22 @@
+<html>
+<head>
+    <style>
+        div{
+            background-color: aqua;
+            color:black;             
+        }
+        body{
+            background-color: rgb(208, 136, 110);
+        }
+    </style>
+</head>
+    <title></title>
+        <body>
+            <div>
+            <center>
+            <H1>Heading 2</H1>
+            <p><b> Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Nam
+                inventor quae offcia quis deserunt repellat ? </p>
+            </div>
+        </body>
+</html>
